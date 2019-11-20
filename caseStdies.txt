@@ -407,3 +407,4 @@ else
 echo "NIC does not exist"
 exit 125
 fi
+#command: ./file.sh  enp0s3(card_name)
